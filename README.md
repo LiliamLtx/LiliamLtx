@@ -6,7 +6,7 @@
   - Scrum e metodologia ágil;
 
 
- ** Meus projetos:**
+ **Meus projetos:**
 ## Solidarité
 <!---
 LiliamLtx/LiliamLtx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
