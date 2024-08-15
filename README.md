@@ -4,8 +4,3 @@
   - Desenvolvedora FullStack | JavaScrit, PHP & C;
   - FrontEnd HTML/CSS;
   - Scrum e metodologia ágil;
-
-
-LiliamLtx/LiliamLtx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
