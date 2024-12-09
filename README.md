@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=f58696" />
 <br>
-  **👋 Hi there,**
-  Me chamo Liliam.
+
+ **Oii, muito prazer**. <br>
+ Me chamo Liliam.
 **LinkedIn:** [imagem linkedin](https://img.icons8.com/color/96/linkedin.png "LinkedIn")
 
 [imagem linkedin]: (https://github.com/user-attachments/assets/2f0b531b-fee8-457a-a37b-1d38922c72f8)
