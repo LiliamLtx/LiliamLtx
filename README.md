@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=f58696" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=f58696"/>
 <br>
 
  **Oii, muito prazer**. <br>
@@ -12,3 +12,5 @@
   - Desenvolvedora FullStack | Python, PHP & C;
   - FrontEnd HTML/CSS;
   - Scrum e metodologia ágil;
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=f58696&section=footer"/>
