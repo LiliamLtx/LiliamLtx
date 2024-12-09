@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DCDCDC&height=120&section=header"/>
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&textBg=false&fontAlign=0&fontAlignY=88&animation=twinkling)
   **👋 Hi there,**
   Me chamo Liliam.
 **LinkedIn:** [imagem linkedin](https://img.icons8.com/color/96/linkedin.png "LinkedIn")
