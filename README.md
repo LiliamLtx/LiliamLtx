@@ -44,8 +44,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/LiliamLtx/LiliamLtx/output/snake.svg" alt="Snake animation" />
-
-###
