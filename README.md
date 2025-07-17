@@ -14,7 +14,7 @@
 
 ###
 
-- Atualmente sou estagiária na área de desenvolvimento na empresa *SERPRO*(Serviço Federal de Processamento de Dados). Trabalho com as linguagens PHP, Python e com bancos Oracle e Postgre. Além disso, já tive breves experiencias com redes e deploy em ambiente Linux
+- Atualmente sou estagiária na área de desenvolvimento na empresa **SERPRO**(Serviço Federal de Processamento de Dados). Trabalho com as linguagens PHP, Python e com bancos Oracle e Postgre. Além disso, já tive breves experiencias com redes e deploy em ambiente Linux
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">- Testes de softwares automatizados<br>- Conterização de servidores em docker<br>- Aplicações, api e microsserviços em PHP e Laravel</p>
+- Testes de softwares automatizados<br>- Conterização de servidores em docker<br>- Aplicações, api e microsserviços em PHP e Laravel.
 
 ###
 
