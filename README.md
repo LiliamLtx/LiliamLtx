@@ -22,7 +22,9 @@
 
 ###
 
-- Testes de softwares automatizados<br>- Conterização de servidores em docker<br>- Aplicações, api e microsserviços em PHP e Laravel.
+- Testes de softwares automatizados<br>
+- Conterização de servidores em docker<br>
+- Aplicações, api e microsserviços em PHP e Laravel.
 
 ###
 
