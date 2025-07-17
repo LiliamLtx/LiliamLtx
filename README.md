@@ -1,18 +1,49 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=f58696"/>
-<br>
+<h1 align="left">✨ Oi, eu sou a Liliam!</h1>
 
- **Oii, muito prazer**. <br>
- Me chamo Liliam, sou de Brasília e estou em formação na área de TI.
+###
 
- 
-**LinkedIn:** [imagem linkedin](https://img.icons8.com/color/96/linkedin.png "LinkedIn")
+<p align="left">Sou programadora em formação com foco em desenvolvimento back-end, mas sempre contando em aprender e ultilizar de tudo um pouco. Sou apaixonada em resolver problemas com lógica.</p>
 
-[imagem linkedin]: (https://github.com/user-attachments/assets/2f0b531b-fee8-457a-a37b-1d38922c72f8)
+###
 
-  
-  - Estudante de 3º semestre de Análise e Desenvolvimento de Sistemas;
-  - Desenvolvedora FullStack | Python, PHP & C;
-  - FrontEnd HTML/CSS;
-  - Scrum e metodologia ágil;
+<h2 align="left">Sobre mim</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=f58696&section=footer"/>
+###
+
+<h4 align="left">💼Trabalho:</h4>
+
+###
+
+<p align="left">- Atualmente sou estagiária na área de desenvolvimento na empresa * SERPRO *(Serviço Federal de Processamento de Dados). Trabalho com as linguagens PHP, Python e com bancos Oracle e Postgre. Além disso, já tive breves experiencias com redes e deploy em ambiente Linux</p>
+
+###
+
+<h4 align="left">📚 Especialidades:</h4>
+
+###
+
+<p align="left">- Testes de softwares automatizados<br>- Conterização de servidores em docker<br>- Aplicações, api e microsserviços em PHP e Laravel</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/LiliamLtx/LiliamLtx/output/snake.svg" alt="Snake animation" />
+
+###
