@@ -1,8 +1,8 @@
-<h1 align="left">✨ Oi, eu sou a Liliam!</h1>
+<h1 align="left">✨ Oii, eu sou a Liliam!</h1>
 
 ###
 
-<p align="left">Sou programadora em formação com foco em desenvolvimento back-end, mas sempre contando em aprender e ultilizar de tudo um pouco. Sou apaixonada em resolver problemas com lógica.</p>
+<p align="left">Sou programadora Back-End PHP e Laravel. Sou apaixonada em resolver problemas com lógica e ainda amo a linguagem C, que foi a porta de entrada na programação</p>
 
 ###
 
@@ -14,17 +14,18 @@
 
 ###
 
-- Atualmente sou estagiária na área de desenvolvimento na empresa **SERPRO**(Serviço Federal de Processamento de Dados). Trabalho com as linguagens PHP, Python e com bancos Oracle e Postgre. Além disso, já tive breves experiencias com redes e deploy em ambiente Linux
-
+- Desenvolvedora Full-Stack com 1 ano e 4 meses de experiência no SERPRO, atuando na sustentação, automação e evolução do sistema GIE em PHP. Experiência com correção de bugs, criação de endpoints, automações em AJAX e manutenção de cargas e bancos de dados Oracle e PostgreSQL em produção. Vivência com containers Docker, versionamento no Estaleiro e deploy em ambientes Linux. Interesse e foco em back-end PHP e Laravel.
 ###
 
 <h4 align="left">📚 Especialidades:</h4>
 
 ###
-
+- PHP e Laravel
+- Requisições AJAX
+- Apis Rest
+- PostgreSQL
 - Testes de softwares automatizados<br>
-- Conterização de servidores em docker<br>
-- Aplicações, api e microsserviços em PHP e Laravel.
+- Conterização em docker<br>
 
 ###
 
