@@ -14,7 +14,7 @@
 
 ###
 
-- Desenvolvedora Full-Stack com 1 ano e 4 meses de experiência no SERPRO, atuando na sustentação, automação e evolução do sistema GIE em PHP. Experiência com correção de bugs, criação de endpoints, automações em AJAX e manutenção de cargas e bancos de dados Oracle e PostgreSQL em produção. Vivência com containers Docker, versionamento no Estaleiro e deploy em ambientes Linux. Interesse e foco em back-end PHP e Laravel.
+- Desenvolvedora Full-Stack com 1 ano e 4 meses de experiência no SERPRO, atuando na sustentação, automação e evolução de um sistema de integração múltiplas ferramentas de monitorações em PHP. Experiência com correção de bugs, criação de endpoints, automações em AJAX e manutenção de cargas e bancos de dados Oracle e PostgreSQL em produção. Vivência com containers Docker, versionamento no Estaleiro e deploy em ambientes Linux. Interesse e foco em back-end PHP e Laravel.
 ###
 
 <h4 align="left">📚 Especialidades:</h4>
