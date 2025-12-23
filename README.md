@@ -1,7 +1,7 @@
-<h1>
-  <img src="https://github.com/user-attachments/assets/21e8d2b8-d5eb-40ab-b6a0-00b2ac8ae18" width="40"> 
-  Oii, eu sou a Liliam!
-</h1>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5cdcfec7-91a9-4b90-8248-b89d90bd039e" width="150">
+  <h1>Oii, eu sou a Liliam!</h1>
+</div>
 
 ###
 
