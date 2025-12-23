@@ -1,5 +1,9 @@
-<h1 align="left"> Oii, eu sou a Liliam!</h1>
+<h1>
+  <img src="https://github.com/user-attachments/assets/94205fea-e3da-4679-b4c5-4f25ebf22456" width="30"> 
+  Oii, eu sou a Liliam!
+</h1>
 
+![500819-pinkheart](https://github.com/user-attachments/assets/94205fea-e3da-4679-b4c5-4f25ebf22456)
 
 ###
 
@@ -37,6 +41,7 @@
 **[Notepad](https://github.com/LiliamLtx/Notepad)**<br>
 - Projeto feito em Laravel para criação de um bloco de notas.
 
+_
 ###
 
 <div align="left">
