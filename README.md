@@ -12,7 +12,7 @@
 - Desenvolvedora Full-Stack com 1 ano e 4 meses de experiência no SERPRO, atuando na sustentação, automação e evolução de um sistema de integração múltiplas ferramentas de monitorações em PHP. Experiência com correção de bugs, criação de endpoints, automações em AJAX e manutenção de cargas e bancos de dados Oracle e PostgreSQL em produção. Vivência com containers Docker, versionamento no Estaleiro e deploy em ambientes Linux. Interesse e foco em back-end PHP e Laravel.
 
 
-<h4 align="left">📚 Especialidades:</h4>
+<h3 align="left">📚 Especialidades:</h3>
 
 - PHP e Laravel
 - Requisições AJAX
@@ -21,7 +21,7 @@
 - Testes de softwares automatizados<br>
 - Conterização em docker<br>
 
-<h4 align="left">🛠️ Principais projetos:</h4>
+<h3 align="left">🛠️ Principais projetos:</h3>
 
 **[Finazen](https://github.com/LiliamLtx/finanzen)** <br>
 - Projeto feito com Django e FastAPI para ajudar os jovens da geração Z a se organizar financeiramente. 
@@ -33,8 +33,8 @@
 **[Notepad](https://github.com/LiliamLtx/Notepad)**<br>
 - Projeto feito em Laravel para criação de um bloco de notas.
 
+
 ---
-### Skills:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
