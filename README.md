@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/5cdcfec7-91a9-4b90-8248-b89d90bd039e" width="150">
-  <h1>Oii, eu sou a Liliam!</h1>
+  <h1>Oii, eu sou a Liliam! 🩷 </h1>
 </div>
 
 ###
