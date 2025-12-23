@@ -3,7 +3,6 @@
   Oii, eu sou a Liliam!
 </h1>
 
-![500819-pinkheart](https://github.com/user-attachments/assets/94205fea-e3da-4679-b4c5-4f25ebf22456)
 
 ###
 
