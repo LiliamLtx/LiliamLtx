@@ -23,12 +23,13 @@
 <br>
 
 
-<p align="left">Sou programadora Back-End PHP e Laravel apaixonada em resolver problemas com lógica e ainda amo a linguagem C, que foi a porta de entrada na programação</p>
+<p align="left">Programadora Back-End PHP e Laravel apaixonada em PHP e C. Gosto muito de computador, da parte física principalente, jogos e artes em pixel. Flerto muito com robotica e adoro arduíno. 🤖</p>
 
 
-<h2 align="left">✨Sobre mim</h2>
+<h2 align="left">👩‍💻 Sobre mim</h2>
 
-- Desenvolvedora Full-Stack com 1 ano e 4 meses de experiência no SERPRO, atuando na sustentação, automação e evolução de um sistema de integração múltiplas ferramentas de monitorações em PHP. Experiência com correção de bugs, criação de endpoints, automações em AJAX e manutenção de cargas e bancos de dados Oracle e PostgreSQL em produção. Vivência com containers Docker, versionamento no Estaleiro e deploy em ambientes Linux. Interesse e foco em back-end PHP e Laravel.
+- Desenvolvedora Full-Stack com 1 ano e 4 meses de experiência no SERPRO, atuando na sustentação, automação e evolução de um sistema de integração múltiplas ferramentas de monitorações em PHP. Experiência com correção de bugs, criação de endpoints, automações em AJAX e manutenção de cargas e bancos de dados Oracle e PostgreSQL em produção. Vivência com containers Docker, versionamento no Estaleiro e deploy em ambientes Linux.
+- Sou formada em Análise e Desenvolvimento de Sistemas e graduanda em Engenharia de Software.
 
 
 <h3 align="left">📚 Especialidades:</h3>
