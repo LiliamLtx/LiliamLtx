@@ -1,4 +1,5 @@
-<h1 align="left">✨ Oii, eu sou a Liliam!</h1>
+<h1 align="left"> ![500819-pinkheart](https://github.com/user-attachments/assets/7aa96a79-9d46-47ed-a659-6b109cd73747) Oii, eu sou a Liliam!</h1>
+
 
 ###
 
@@ -7,10 +8,6 @@
 ###
 
 <h2 align="left">Sobre mim</h2>
-
-###
-
-<h4 align="left">💼Trabalho:</h4>
 
 ###
 
@@ -26,6 +23,12 @@
 - PostgreSQL
 - Testes de softwares automatizados<br>
 - Conterização em docker<br>
+
+###
+<h4 align="left">🛠️ Principais projetos:</h4>
+**[Finazen](https://github.com/LiliamLtx/finanzen)**
+**[Auto-Services-Hub](https://github.com/LiliamLtx/Auto-Services-Hub)**
+**[Notepad](https://github.com/LiliamLtx/Notepad)**
 
 ###
 
