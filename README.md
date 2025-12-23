@@ -1,5 +1,5 @@
 <h1>
-  <img src="[https://github.com/user-attachments/assets/94205fea-e3da-4679-b4c5-4f25ebf22456](https://github.com/user-attachments/assets/dbcdccb0-caa8-4d29-a7e1-f1713529f344)" width="40"> 
+  <img src="https://github.com/user-attachments/assets/21e8d2b8-d5eb-40ab-b6a0-00b2ac8ae18" width="40"> 
   Oii, eu sou a Liliam!
 </h1>
 
