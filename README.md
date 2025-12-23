@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">✨Sobre mim</h2>
 
 ###
 
