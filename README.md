@@ -27,9 +27,15 @@
 ###
 <h4 align="left">🛠️ Principais projetos:</h4>
 
-**[Finazen](https://github.com/LiliamLtx/finanzen)**
-**[Auto-Services-Hub](https://github.com/LiliamLtx/Auto-Services-Hub)**
-**[Notepad](https://github.com/LiliamLtx/Notepad)**
+**[Finazen](https://github.com/LiliamLtx/finanzen)** <br>
+- Projeto feito com Django e FastAPI para ajudar os jovens da geração Z a se organizar financeiramente. 
+- Desenvolvi **testes em robot** para testar todas as telas de navegação.
+
+**[Auto-Services-Hub](https://github.com/LiliamLtx/Auto-Services-Hub)**<br>
+- Projeto feito com Django e Docker para criar uma plataforma de gerenciamento de vendas para uma concessionária de automóveis. 
+
+**[Notepad](https://github.com/LiliamLtx/Notepad)**<br>
+- Projeto feito em Laravel para criação de um bloco de notas.
 
 ###
 
