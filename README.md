@@ -20,9 +20,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
 </div>
 
+<br>
 
 
-<p align="left">Sou programadora Back-End PHP e Laravel. Sou apaixonada em resolver problemas com lógica e ainda amo a linguagem C, que foi a porta de entrada na programação</p>
+<p align="left">Sou programadora Back-End PHP e Laravel apaixonada em resolver problemas com lógica e ainda amo a linguagem C, que foi a porta de entrada na programação</p>
 
 
 <h2 align="left">✨Sobre mim</h2>
