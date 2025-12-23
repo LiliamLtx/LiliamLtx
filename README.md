@@ -1,4 +1,4 @@
-<h1 align="left"> ![500819-pinkheart](https://github.com/user-attachments/assets/7aa96a79-9d46-47ed-a659-6b109cd73747) Oii, eu sou a Liliam!</h1>
+<h1 align="left"> Oii, eu sou a Liliam!</h1>
 
 
 ###
