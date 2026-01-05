@@ -35,18 +35,18 @@
 
 <h3 align="left">📚 Especialidades:</h3>
 
+- Testes funcionais
+- Testes de APIs
 - PHP e Laravel
 - Requisições AJAX
-- Apis Rest
 - PostgreSQL
-- Testes de softwares automatizados<br>
 - Conterização em docker<br>
 
 <h3 align="left">🛠️ Principais projetos:</h3>
 
 **[Finazen](https://github.com/LiliamLtx/finanzen)** <br>
+- Desenvolvi **testes em Robot** para testar todas as telas de navegação.
 - Projeto feito com Django e FastAPI para ajudar os jovens da geração Z a se organizar financeiramente. 
-- Desenvolvi **testes em robot** para testar todas as telas de navegação.
 
 **[Auto-Services-Hub](https://github.com/LiliamLtx/Auto-Services-Hub)**<br>
 - Projeto feito com Django e Docker para criar uma plataforma de gerenciamento de vendas para uma concessionária de automóveis. 
