@@ -24,12 +24,12 @@
 <br>
 
 
-<p align="left">Analista por testes de softwares, php e Laravel. </p>
+<p align="left">Analista apaixonada por testes de softwares, php e Laravel. </p>
 
 
 <h2 align="left">👩‍💻 Sobre mim</h2>
 
-- Desenvolvedora Full-Stack com 1 ano e 4 meses de experiência no SERPRO, atuando na sustentação, automação e evolução de um sistema de integração múltiplas ferramentas de monitorações em PHP. Experiência com correção de bugs, criação de endpoints, automações em AJAX e manutenção de cargas e bancos de dados Oracle e PostgreSQL em produção. Vivência com containers Docker, versionamento no Estaleiro e deploy em ambientes Linux.
+- Analista de Testes (QA) Júnior com formação em Análise e Desenvolvimento de Sistemas e experiência em sistemas corporativos no SERPRO. Atuação em testes funcionais e de regressão, validação de regras de negócio, testes de APIs REST e verificação de dados em banco de dados. Possuo certificação ISTQB, conhecimento em SQL, Docker e forte entendimento de backend em PHP, facilitando a comunicação com times de desenvolvimento.
 - Sou formada em Análise e Desenvolvimento de Sistemas e graduanda em Engenharia de Software.
 
 
