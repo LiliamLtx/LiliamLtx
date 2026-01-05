@@ -24,7 +24,7 @@
 <br>
 
 
-<p align="left">Programadora Back-End PHP e Laravel apaixonada em PHP e C. Gosto muito de computador, da parte física principalmente, jogos e artes em pixel. Flerto muito com robotica e adoro arduíno. 🤖</p>
+<p align="left">Analista por testes de softwares, php e Laravel. </p>
 
 
 <h2 align="left">👩‍💻 Sobre mim</h2>
