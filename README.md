@@ -46,6 +46,7 @@
 
 **[Finazen](https://github.com/LiliamLtx/finanzen)** <br>
 - Desenvolvi **testes em Robot** para testar todas as telas de navegação.
+- Teste **unitários** em Pytest.
 - Projeto feito com Django e FastAPI para ajudar os jovens da geração Z a se organizar financeiramente. 
 
 **[Auto-Services-Hub](https://github.com/LiliamLtx/Auto-Services-Hub)**<br>
