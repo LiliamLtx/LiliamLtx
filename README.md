@@ -1,9 +1,9 @@
 
-<div align="center">
-  <h1>
+<div align="left">
+  <h2>
     <img src="https://github.com/user-attachments/assets/5cdcfec7-91a9-4b90-8248-b89d90bd039e" width="50" style="vertical-align: middle;">
     Oii, eu sou a Liliam! 
-  </h1>
+  </h2>
 </div>
 
 <h3 align="left">Tecnologias:</h3>
