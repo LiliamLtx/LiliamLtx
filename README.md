@@ -26,7 +26,7 @@
 <p><b> Conecte-se comigo: </b></p>
 
 <div align="left">
-  <a href="[Linkedin](https://www.linkedin.com/in/liliamteixeira/)" target="_blank">
+  <a href="https://www.linkedin.com/in/liliamteixeira/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="liliam.silvateixeira@gmail.com">
