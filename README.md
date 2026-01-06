@@ -6,7 +6,8 @@
 
 <h3 align="left">Tecnologias:</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" height="45" style="margin-right: 15px;" alt="cypress" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain.svg" height="45" style="margin-right: 15px;" alt="cypress" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="45" style="margin-right: 15px;" alt="postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" height="45" style="margin-right: 15px;" alt="insomnia" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" style="margin-right: 15px;" alt="php" />
