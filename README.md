@@ -1,13 +1,13 @@
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/5cdcfec7-91a9-4b90-8248-b89d90bd039e" width="150">
-  <h1>Oii, eu sou a Liliam! 💞 </h1>
+  <h1>Oii, eu sou a Liliam! </h1>
 </div>
 
 <h3 align="left">Tecnologias:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" height="45" style="margin-right: 15px;" alt="cypress" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" height="45" style="margin-right: 15px;" alt="postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="45" style="margin-right: 15px;" alt="postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-plain-wordmark.svg" height="45" style="margin-right: 15px;" alt="insomnia" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" style="margin-right: 15px;" alt="php" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45" style="margin-right: 15px;" alt="laravel" />
