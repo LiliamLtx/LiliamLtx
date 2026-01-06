@@ -1,10 +1,7 @@
 
-<div align="left">
-  <h2>
-    <img src="https://github.com/user-attachments/assets/5cdcfec7-91a9-4b90-8248-b89d90bd039e" width="50" style="vertical-align: middle;">
-    Oii, eu sou a Liliam! 
-  </h2>
-</div>
+### Oi, eu sou a Liliam! <img src="https://github.com/user-attachments/assets/5cdcfec7-91a9-4b90-8248-b89d90bd039e" width="50" style="vertical-align: middle;">
+
+
 
 <h3 align="left">Tecnologias:</h3>
 <div align="left">
