@@ -24,7 +24,6 @@
 <br>
 
 <p><b> Conecte-se comigo: </b></p>
-<p><b> Conecte-se comigo: </b></p>
 
 <div align="left">
   <a href="[Linkedin](https://www.linkedin.com/in/liliamteixeira/)" target="_blank">
