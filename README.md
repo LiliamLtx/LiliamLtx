@@ -4,22 +4,26 @@
   <h1>Oii, eu sou a Liliam! 💞 </h1>
 </div>
 
-<div align="center">
+<h3 align="left">Tecnologias:</h3>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" />
+  <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" />
+  <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-plain-wordmark.svg" />
+  <img width="12" />    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
+
+<h3 align="left">Banco de dados:</h3>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-</div>
 
 <br>
 
@@ -27,20 +31,6 @@
 <p align="left">Analista apaixonada por testes de softwares, php e Laravel. </p>
 
 
-<h2 align="left">👩‍💻 Sobre mim</h2>
-
-- Analista de Testes (QA) Júnior com formação em Análise e Desenvolvimento de Sistemas e experiência em sistemas corporativos no SERPRO. Atuação em testes funcionais e de regressão, validação de regras de negócio, testes de APIs REST e verificação de dados em banco de dados. Possuo certificação ISTQB, conhecimento em SQL, Docker e forte entendimento de backend em PHP, facilitando a comunicação com times de desenvolvimento.
-- Sou formada em Análise e Desenvolvimento de Sistemas e graduanda em Engenharia de Software.
-
-
-<h3 align="left">📚 Especialidades:</h3>
-
-- Testes funcionais
-- Testes de APIs
-- PHP e Laravel
-- Requisições AJAX
-- PostgreSQL
-- Conterização em docker<br>
 
 <h3 align="left">🛠️ Principais projetos:</h3>
 
