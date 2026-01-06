@@ -1,9 +1,9 @@
 
-### Oi, eu sou a Liliam! <img src="https://github.com/user-attachments/assets/5cdcfec7-91a9-4b90-8248-b89d90bd039e" width="50" style="vertical-align: middle;">
+### <img src="https://github.com/user-attachments/assets/5cdcfec7-91a9-4b90-8248-b89d90bd039e" width="40" style="vertical-align: middle;"> Oi, eu sou a Liliam! 
 
 
 
-<h3 align="left">Tecnologias:</h3>
+<h4 align="left">Tecnologias:</h4>
 <div align="left">
   
   
@@ -15,7 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker" />
 </div>
 
-<h3 align="left">Banco de dados:</h3>
+<h4 align="left">Banco de dados:</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" style="margin-right: 10px;" alt="postgresql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45" alt="oracle logo" />
@@ -23,18 +23,17 @@
 
 <br>
 
-<h3 align="left">🛠️ Principais projetos:</h3>
+<p><b> Conecte-se comigo: </b></p>
+<p><b> Conecte-se comigo: </b></p>
 
-**[Finazen](https://github.com/LiliamLtx/finanzen)** <br>
-- Desenvolvi **testes em Robot** para testar todas as telas de navegação.
-- Teste **unitários** em Pytest.
-- Projeto feito com Django e FastAPI para ajudar os jovens da geração Z a se organizar financeiramente. 
-
-**[Auto-Services-Hub](https://github.com/LiliamLtx/Auto-Services-Hub)**<br>
-- Projeto feito com Django e Docker para criar uma plataforma de gerenciamento de vendas para uma concessionária de automóveis. 
-
-**[Notepad](https://github.com/LiliamLtx/Notepad)**<br>
-- Projeto feito em Laravel para criação de um bloco de notas.
+<div align="left">
+  <a href="[Linkedin](https://www.linkedin.com/in/liliamteixeira/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="liliam.silvateixeira@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
 
 
 
