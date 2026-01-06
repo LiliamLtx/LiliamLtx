@@ -24,11 +24,6 @@
 
 <br>
 
-
-<p align="left">Analista apaixonada por testes de softwares, php e Laravel. </p>
-
-
-
 <h3 align="left">🛠️ Principais projetos:</h3>
 
 **[Finazen](https://github.com/LiliamLtx/finanzen)** <br>
