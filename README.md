@@ -1,9 +1,9 @@
 
-### <img src="https://github.com/user-attachments/assets/5cdcfec7-91a9-4b90-8248-b89d90bd039e" width="40" style="vertical-align: middle;"> Oi, eu sou a Liliam! 
+### <img src="https://github.com/user-attachments/assets/5cdcfec7-91a9-4b90-8248-b89d90bd039e" width="40" style="vertical-align: middle;"> Hiii, eu sou a Liliam! 
 
+<p> Qa Engineer </p>
 
-
-<h4 align="left">Tecnologias:</h4>
+<h4 align="left">Expertise:</h4>
 <div align="left">
   
   
@@ -19,7 +19,7 @@
           
 </div>
 
-<h4 align="left">Banco de dados:</h4>
+<h4 align="left">DataBases:</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" style="margin-right: 10px;" alt="postgresql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45" alt="oracle logo" />
